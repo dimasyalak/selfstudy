@@ -1,0 +1,2 @@
+# selfstudy
+latihan pertama
